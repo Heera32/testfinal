@@ -5,8 +5,11 @@ As a Full Stack Developer, complete the features of the application by planning 
 # Background of the problem statement:
 
 •	Specification document - Product’s capabilities, appearance, and user interactions
+
 •	Number and duration of sprints required
+
 •	Setting up Git and GitHub account to store and track your enhancements of the prototype
+
 •	Java concepts being used in the project
 •	Data Structures where sorting and searching techniques are used.
 •	Generic features and three operations:
